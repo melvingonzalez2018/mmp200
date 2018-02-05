@@ -1,0 +1,14 @@
+body {background-color:#afd1cf;}
+
+header{font-family: monospace;; font-size:12px; margin-left: 470px;}
+h2{margin-left:80px;}
+h3{margin-left:180px;}
+
+#desc2{background-color:grey;font-size: 20px; font-family:arial; width:500px; padding:30px; float:right;}
+img{background-color:grey;font-size: 20px; width:500px; padding:13px; float:right; margin-top:23px;}
+
+nav{background-color:grey;}
+li{margin-left:170px; display:inline; font-size: 20px; font-family: arial; font-weight: bold;}
+
+footer{background-color:grey; font-family: monospace; margin-right:250px;
+   font-size:12px; margin-left: 270px; margin-top: 550px;}
