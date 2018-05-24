@@ -1,0 +1,23 @@
+html{
+font-family: courier
+}
+
+#paragraph1{
+  background-color: #caccce;
+
+  margin: 100px;
+  }
+  #paragraph2{
+    background-color: #caccce;
+
+    margin: 100px;
+    }
+    #paragraph3{
+      background-color: #caccce;
+      margin: 100px;
+      }
+
+
+      title{
+      padding-left: 100px;
+      }
